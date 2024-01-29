@@ -1,0 +1,2 @@
+[target.arm-unknown-linux-gnueabihf]
+linker = "/opt/cross-pi-gcc-10.3.0-0/bin/arm-linux-gnueabihf-gcc-10.3.1"
